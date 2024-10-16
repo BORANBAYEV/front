@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <img width="400px" src="./week7_1100.jpg" alt="REFERENCES" />
+    <h1>Boranbaev Erbol</h1>
+    <h2>Как со мной связяться</h2>
+    <ul>
+      <li>
+        <a target="_blank" href="https://yandex.kz/">+77777777777</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://yandex.kz/">boranbaev99@mail.ru</a>
+      </li>
+    </ul>
+    <h2>FROM</h2>
+    <p>Astana</p>
+    <h2>ABOUT ME</h2>
+    <p>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis
+      cupiditate minima veniam, officia accusamus ducimus temporibus ullam
+      labore sint animi asperiores rerum, doloribus nihil inventore sequi
+      praesentium. Molestias, similique quam.
+    </p>
+    <h2>КАЧЕСТВА</h2>
+    <h3>ЧТО Я УМЕЮ</h3>
+    <ul>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+    </ul>
+    <h3>ЧТО Я ЛЮБЛЮ</h3>
+    <ul>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+      <li>Lorem ipsum, dolor sit</li>
+    </ul>
+    <h3>STUDY</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+    <h3>ENGLISH</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit</p>
+  </body>
+</html>
